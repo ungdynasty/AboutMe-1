@@ -16,7 +16,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
-    /** Richard Ung nasty  bun is super bossy*/
+    /** Richard Ung nasty  bun is super bossy. Richard are a dick and like poon.*/
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
